@@ -1,0 +1,25 @@
+{
+  "name": "@brandonhimpfen/is-ip-address",
+  "version": "1.0.1",
+  "description": "Check if a string is an IP address (IPv6 or IPv4)",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "Brandon Himpfen",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brandonhimpfen/is-ip-address.git"
+  },
+  "keywords": [
+    "ip",
+    "address",
+    "ipv4",
+    "ipv6"
+  ],
+  "bugs": {
+    "url": "https://github.com/brandonhimpfen/is-ip-address/issues"
+  },
+  "homepage": "https://github.com/brandonhimpfen/is-ip-address#readme"
+}
